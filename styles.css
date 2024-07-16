@@ -40,7 +40,7 @@
   }
   
   footer {
-    margin-top: 5%;
+    margin-top: 50px;
     color: #EEEEEE;
     text-align: center;
     font-family: 'Pacifico', cursive;
@@ -50,7 +50,7 @@
   .btn-class{
     display: flex;  
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 21px;
 
   }
 
